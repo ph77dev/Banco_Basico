@@ -1,13 +1,11 @@
 menu = """
-========== BANCO ==========
+           BANCO
 Escolha a operação desejada:
 
 [1] Depositar
 [2] Sacar
 [3] Extrato
 [0] Sair
-
-=================================
 """
 
 saldo = 0
